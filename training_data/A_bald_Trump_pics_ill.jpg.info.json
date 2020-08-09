@@ -1,0 +1,462 @@
+{
+  "totals": {
+    "FIVE": {
+      "colors": {
+        "RED": 10945,
+        "RED_YELLOW": 2359,
+        "YELLOW": 116,
+        "YELLOW_GREEN": 70,
+        "GREEN": 169,
+        "GREEN_CYAN": 231,
+        "CYAN": 379,
+        "CYAN_BLUE": 1996,
+        "BLUE": 772,
+        "BLUE_MAGENTA": 121,
+        "MAGENTA": 124,
+        "MAGENTA_RED": 1174
+      },
+      "values": {
+        "DARK": 2231,
+        "DARK_MID_DARK": 1654,
+        "MID_DARK": 4124,
+        "MID_DARK_BRIGHT": 4737,
+        "MID": 2112,
+        "DARK_MID_BRIGHT": 1071,
+        "MID_BRIGHT": 1228,
+        "BRIGHT_MID_BRIGHT": 491,
+        "BRIGHT": 387,
+        "VERY_BRIGHT": 421
+      }
+    },
+    "TEN": {
+      "colors": {
+        "RED": 10911,
+        "RED_YELLOW": 2382,
+        "YELLOW": 135,
+        "YELLOW_GREEN": 62,
+        "GREEN": 160,
+        "GREEN_CYAN": 207,
+        "CYAN": 381,
+        "CYAN_BLUE": 2040,
+        "BLUE": 758,
+        "BLUE_MAGENTA": 127,
+        "MAGENTA": 137,
+        "MAGENTA_RED": 1155
+      },
+      "values": {
+        "DARK": 2173,
+        "DARK_MID_DARK": 1641,
+        "MID_DARK": 4217,
+        "MID_DARK_BRIGHT": 4637,
+        "MID": 2242,
+        "DARK_MID_BRIGHT": 1020,
+        "MID_BRIGHT": 1218,
+        "BRIGHT_MID_BRIGHT": 468,
+        "BRIGHT": 432,
+        "VERY_BRIGHT": 407
+      }
+    },
+    "TWENTY_FIVE": {
+      "colors": {
+        "RED": 32519,
+        "RED_YELLOW": 7066,
+        "YELLOW": 369,
+        "YELLOW_GREEN": 240,
+        "GREEN": 403,
+        "GREEN_CYAN": 705,
+        "CYAN": 1110,
+        "CYAN_BLUE": 6328,
+        "BLUE": 2353,
+        "BLUE_MAGENTA": 312,
+        "MAGENTA": 376,
+        "MAGENTA_RED": 3584
+      },
+      "values": {
+        "DARK": 6729,
+        "DARK_MID_DARK": 5099,
+        "MID_DARK": 12573,
+        "MID_DARK_BRIGHT": 14046,
+        "MID": 6477,
+        "DARK_MID_BRIGHT": 3124,
+        "MID_BRIGHT": 3554,
+        "BRIGHT_MID_BRIGHT": 1382,
+        "BRIGHT": 1118,
+        "VERY_BRIGHT": 1263
+      }
+    },
+    "THIRTY_THREE": {
+      "colors": {
+        "RED": 17412,
+        "RED_YELLOW": 3792,
+        "YELLOW": 233,
+        "YELLOW_GREEN": 111,
+        "GREEN": 221,
+        "GREEN_CYAN": 370,
+        "CYAN": 658,
+        "CYAN_BLUE": 3282,
+        "BLUE": 1187,
+        "BLUE_MAGENTA": 205,
+        "MAGENTA": 197,
+        "MAGENTA_RED": 1861
+      },
+      "values": {
+        "DARK": 3628,
+        "DARK_MID_DARK": 2625,
+        "MID_DARK": 6741,
+        "MID_DARK_BRIGHT": 7374,
+        "MID": 3476,
+        "DARK_MID_BRIGHT": 1697,
+        "MID_BRIGHT": 1898,
+        "BRIGHT_MID_BRIGHT": 742,
+        "BRIGHT": 620,
+        "VERY_BRIGHT": 728
+      }
+    },
+    "FIFTY": {
+      "colors": {
+        "RED": 36881,
+        "RED_YELLOW": 7999,
+        "YELLOW": 440,
+        "YELLOW_GREEN": 233,
+        "GREEN": 473,
+        "GREEN_CYAN": 814,
+        "CYAN": 1310,
+        "CYAN_BLUE": 7123,
+        "BLUE": 2670,
+        "BLUE_MAGENTA": 397,
+        "MAGENTA": 410,
+        "MAGENTA_RED": 3997
+      },
+      "values": {
+        "DARK": 7682,
+        "DARK_MID_DARK": 5731,
+        "MID_DARK": 14118,
+        "MID_DARK_BRIGHT": 15605,
+        "MID": 7518,
+        "DARK_MID_BRIGHT": 3583,
+        "MID_BRIGHT": 3991,
+        "BRIGHT_MID_BRIGHT": 1639,
+        "BRIGHT": 1361,
+        "VERY_BRIGHT": 1519
+      }
+    },
+    "SIXTY_SIX": {
+      "colors": {
+        "RED": 34801,
+        "RED_YELLOW": 7486,
+        "YELLOW": 409,
+        "YELLOW_GREEN": 219,
+        "GREEN": 433,
+        "GREEN_CYAN": 762,
+        "CYAN": 1173,
+        "CYAN_BLUE": 6719,
+        "BLUE": 2430,
+        "BLUE_MAGENTA": 410,
+        "MAGENTA": 386,
+        "MAGENTA_RED": 3829
+      },
+      "values": {
+        "DARK": 7054,
+        "DARK_MID_DARK": 5335,
+        "MID_DARK": 13480,
+        "MID_DARK_BRIGHT": 15145,
+        "MID": 6887,
+        "DARK_MID_BRIGHT": 3342,
+        "MID_BRIGHT": 3667,
+        "BRIGHT_MID_BRIGHT": 1527,
+        "BRIGHT": 1268,
+        "VERY_BRIGHT": 1352
+      }
+    },
+    "SEVENTY_FIVE": {
+      "colors": {
+        "RED": 19489,
+        "RED_YELLOW": 4259,
+        "YELLOW": 252,
+        "YELLOW_GREEN": 148,
+        "GREEN": 246,
+        "GREEN_CYAN": 463,
+        "CYAN": 648,
+        "CYAN_BLUE": 3676,
+        "BLUE": 1421,
+        "BLUE_MAGENTA": 241,
+        "MAGENTA": 211,
+        "MAGENTA_RED": 2165
+      },
+      "values": {
+        "DARK": 4001,
+        "DARK_MID_DARK": 3043,
+        "MID_DARK": 7490,
+        "MID_DARK_BRIGHT": 8399,
+        "MID": 3982,
+        "DARK_MID_BRIGHT": 1871,
+        "MID_BRIGHT": 2120,
+        "BRIGHT_MID_BRIGHT": 832,
+        "BRIGHT": 720,
+        "VERY_BRIGHT": 761
+      }
+    },
+    "HUNDRED": {
+      "colors": {
+        "RED": 54397,
+        "RED_YELLOW": 11928,
+        "YELLOW": 682,
+        "YELLOW_GREEN": 366,
+        "GREEN": 661,
+        "GREEN_CYAN": 1202,
+        "CYAN": 1946,
+        "CYAN_BLUE": 10287,
+        "BLUE": 3779,
+        "BLUE_MAGENTA": 574,
+        "MAGENTA": 623,
+        "MAGENTA_RED": 5831
+      },
+      "values": {
+        "DARK": 11063,
+        "DARK_MID_DARK": 8442,
+        "MID_DARK": 20709,
+        "MID_DARK_BRIGHT": 23398,
+        "MID": 10901,
+        "DARK_MID_BRIGHT": 5277,
+        "MID_BRIGHT": 5916,
+        "BRIGHT_MID_BRIGHT": 2348,
+        "BRIGHT": 2040,
+        "VERY_BRIGHT": 2182
+      }
+    }
+  },
+  "proportions": {
+    "FIVE": {
+      "colors": {
+        "RED": 0.5930320762895536,
+        "RED_YELLOW": 0.12781751192024274,
+        "YELLOW": 0.006285218899003034,
+        "YELLOW_GREEN": 0.0037928045080190724,
+        "GREEN": 0.009156913740788903,
+        "GREEN_CYAN": 0.01251625487646294,
+        "CYAN": 0.02053532726484612,
+        "CYAN_BLUE": 0.10814911140008669,
+        "BLUE": 0.04182921543129606,
+        "BLUE_MAGENTA": 0.006556133506718682,
+        "MAGENTA": 0.006718682271348071,
+        "MAGENTA_RED": 0.06361074989163416
+      },
+      "values": {
+        "DARK": 0.12088209796272215,
+        "DARK_MID_DARK": 0.08961855223233636,
+        "MID_DARK": 0.22345036844386648,
+        "MID_DARK_BRIGHT": 0.25666449934980495,
+        "MID": 0.11443433029908973,
+        "DARK_MID_BRIGHT": 0.05802990897269181,
+        "MID_BRIGHT": 0.06653662765496315,
+        "BRIGHT_MID_BRIGHT": 0.026603814477676638,
+        "BRIGHT": 0.02096879063719116,
+        "VERY_BRIGHT": 0.022811009969657563
+      }
+    },
+    "TEN": {
+      "colors": {
+        "RED": 0.592127008208935,
+        "RED_YELLOW": 0.12844409525615672,
+        "YELLOW": 0.006800140879412641,
+        "YELLOW_GREEN": 0.0035761697055078433,
+        "GREEN": 0.008913332069030912,
+        "GREEN_CYAN": 0.011866381295548753,
+        "CYAN": 0.020590068001408793,
+        "CYAN_BLUE": 0.10934409796537617,
+        "BLUE": 0.041451057950204546,
+        "BLUE_MAGENTA": 0.006718864295196554,
+        "MAGENTA": 0.007071062826799599,
+        "MAGENTA_RED": 0.06309772154642247
+      },
+      "values": {
+        "DARK": 0.11931402562921622,
+        "DARK_MID_DARK": 0.0892687816640026,
+        "MID_DARK": 0.2259759963154615,
+        "MID_DARK_BRIGHT": 0.25396223348053426,
+        "MID": 0.11795941589228143,
+        "DARK_MID_BRIGHT": 0.05664977919861288,
+        "MID_BRIGHT": 0.06626750833084988,
+        "BRIGHT_MID_BRIGHT": 0.025981414754409255,
+        "BRIGHT": 0.022188507490991844,
+        "VERY_BRIGHT": 0.022432337243640108
+      }
+    },
+    "TWENTY_FIVE": {
+      "colors": {
+        "RED": 0.5892648142528935,
+        "RED_YELLOW": 0.127953097230049,
+        "YELLOW": 0.006718973514239889,
+        "YELLOW_GREEN": 0.004031384108543933,
+        "GREEN": 0.007932723568425159,
+        "GREEN_CYAN": 0.012386752785122893,
+        "CYAN": 0.020265291083271922,
+        "CYAN_BLUE": 0.1123152282283584,
+        "BLUE": 0.042080280896441113,
+        "BLUE_MAGENTA": 0.006068750270926351,
+        "MAGENTA": 0.006903203433178725,
+        "MAGENTA_RED": 0.06407950062854914
+      },
+      "values": {
+        "DARK": 0.12064892279682692,
+        "DARK_MID_DARK": 0.09096623173956392,
+        "MID_DARK": 0.22664614851098877,
+        "MID_DARK_BRIGHT": 0.2538038059733842,
+        "MID": 0.11737613247214877,
+        "DARK_MID_BRIGHT": 0.05651523689800165,
+        "MID_BRIGHT": 0.06502232433135377,
+        "BRIGHT_MID_BRIGHT": 0.025369543543283194,
+        "BRIGHT": 0.02099137370497204,
+        "VERY_BRIGHT": 0.022660280029476787
+      }
+    },
+    "THIRTY_THREE": {
+      "colors": {
+        "RED": 0.5893600426911867,
+        "RED_YELLOW": 0.12806535035507574,
+        "YELLOW": 0.007002996592914905,
+        "YELLOW_GREEN": 0.003965354459997537,
+        "GREEN": 0.007823980953162842,
+        "GREEN_CYAN": 0.012421493370551292,
+        "CYAN": 0.020754484627067853,
+        "CYAN_BLUE": 0.11203152579943353,
+        "BLUE": 0.04162390706457042,
+        "BLUE_MAGENTA": 0.00628053035589672,
+        "MAGENTA": 0.0068470095644677965,
+        "MAGENTA_RED": 0.06382332416567464
+      },
+      "values": {
+        "DARK": 0.12118550141619802,
+        "DARK_MID_DARK": 0.0904642666557202,
+        "MID_DARK": 0.22704322482656705,
+        "MID_DARK_BRIGHT": 0.2528139238947498,
+        "MID": 0.11745823242067238,
+        "DARK_MID_BRIGHT": 0.056746438980337426,
+        "MID_BRIGHT": 0.06484134477238208,
+        "BRIGHT_MID_BRIGHT": 0.025310947826443907,
+        "BRIGHT": 0.020992570091539757,
+        "VERY_BRIGHT": 0.02314354911538935
+      }
+    },
+    "FIFTY": {
+      "colors": {
+        "RED": 0.5888204950366293,
+        "RED_YELLOW": 0.12786640079760717,
+        "YELLOW": 0.007006155446703368,
+        "YELLOW_GREEN": 0.0038796653517707744,
+        "GREEN": 0.007726819541375872,
+        "GREEN_CYAN": 0.012608912393255017,
+        "CYAN": 0.02079630673197798,
+        "CYAN_BLUE": 0.11253738783649053,
+        "BLUE": 0.04193939919372318,
+        "BLUE_MAGENTA": 0.00629632840608609,
+        "MAGENTA": 0.00674064762235034,
+        "MAGENTA_RED": 0.06378148164203043
+      },
+      "values": {
+        "DARK": 0.12160800208071437,
+        "DARK_MID_DARK": 0.09076032771251463,
+        "MID_DARK": 0.22634812952447006,
+        "MID_DARK_BRIGHT": 0.25141423555420694,
+        "MID": 0.11825935237764966,
+        "DARK_MID_BRIGHT": 0.05686744115479648,
+        "MID_BRIGHT": 0.06442086783128874,
+        "BRIGHT_MID_BRIGHT": 0.025586284624387706,
+        "BRIGHT": 0.021229788894187005,
+        "VERY_BRIGHT": 0.023505570245784386
+      }
+    },
+    "SIXTY_SIX": {
+      "colors": {
+        "RED": 0.5889314434195781,
+        "RED_YELLOW": 0.1275979130491895,
+        "YELLOW": 0.00698660558517953,
+        "YELLOW_GREEN": 0.0038381176393318802,
+        "GREEN": 0.00763108095349515,
+        "GREEN_CYAN": 0.012680155495076126,
+        "CYAN": 0.020569847583627864,
+        "CYAN_BLUE": 0.11283655365770559,
+        "BLUE": 0.04174722608770612,
+        "BLUE_MAGENTA": 0.006452963560459589,
+        "MAGENTA": 0.006691050002257716,
+        "MAGENTA_RED": 0.06403704296639287
+      },
+      "values": {
+        "DARK": 0.12108337540895452,
+        "DARK_MID_DARK": 0.09065757012261452,
+        "MID_DARK": 0.22681017532192982,
+        "MID_DARK_BRIGHT": 0.25263434437972326,
+        "MID": 0.1178609985673764,
+        "DARK_MID_BRIGHT": 0.056800036123460136,
+        "MID_BRIGHT": 0.06385642566571842,
+        "BRIGHT_MID_BRIGHT": 0.025651761634422374,
+        "BRIGHT": 0.021288211847673936,
+        "VERY_BRIGHT": 0.02335710092812663
+      }
+    },
+    "SEVENTY_FIVE": {
+      "colors": {
+        "RED": 0.5886615515771526,
+        "RED_YELLOW": 0.12767133382461313,
+        "YELLOW": 0.007058534541303625,
+        "YELLOW_GREEN": 0.003912176513936451,
+        "GREEN": 0.0076039995954166485,
+        "GREEN_CYAN": 0.012831072001387143,
+        "CYAN": 0.020442296299507275,
+        "CYAN_BLUE": 0.11257531752568382,
+        "BLUE": 0.04187076451804008,
+        "BLUE_MAGENTA": 0.0065491930007080205,
+        "MAGENTA": 0.006650338838556793,
+        "MAGENTA_RED": 0.06417342176369442
+      },
+      "values": {
+        "DARK": 0.12100654558064936,
+        "DARK_MID_DARK": 0.09077116476656985,
+        "MID_DARK": 0.2266497608623405,
+        "MID_DARK_BRIGHT": 0.252658690594882,
+        "MID": 0.11810221509384888,
+        "DARK_MID_BRIGHT": 0.056742815033161385,
+        "MID_BRIGHT": 0.06385192249338939,
+        "BRIGHT_MID_BRIGHT": 0.025579059921684223,
+        "BRIGHT": 0.021334547083387518,
+        "VERY_BRIGHT": 0.023303278570086843
+      }
+    },
+    "HUNDRED": {
+      "colors": {
+        "RED": 0.5888719710433916,
+        "RED_YELLOW": 0.12806959556114267,
+        "YELLOW": 0.007141618622393688,
+        "YELLOW_GREEN": 0.003925722831505484,
+        "GREEN": 0.007493822879188521,
+        "GREEN_CYAN": 0.012879838744635658,
+        "CYAN": 0.020603949022497726,
+        "CYAN_BLUE": 0.11230168191078937,
+        "BLUE": 0.041641380207204474,
+        "BLUE_MAGENTA": 0.006467012007455893,
+        "MAGENTA": 0.006675625298018986,
+        "MAGENTA_RED": 0.06392778187177597
+      },
+      "values": {
+        "DARK": 0.1207274914387273,
+        "DARK_MID_DARK": 0.09094997615848108,
+        "MID_DARK": 0.22609345875417228,
+        "MID_DARK_BRIGHT": 0.2528853656422038,
+        "MID": 0.1181103428843903,
+        "DARK_MID_BRIGHT": 0.05685389483722745,
+        "MID_BRIGHT": 0.06391694481772076,
+        "BRIGHT_MID_BRIGHT": 0.02554564567168061,
+        "BRIGHT": 0.02152780788070571,
+        "VERY_BRIGHT": 0.02338907191469071
+      }
+    }
+  },
+  "averages": {
+    "colorAverage": {
+      "r": 82.2339286488361,
+      "g": 44.060243183493,
+      "b": 30.922152022194286
+    },
+    "valueAverage": 34.50279595994625
+  }
+}
